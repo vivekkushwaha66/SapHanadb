@@ -1,0 +1,6 @@
+C:\Data\MyProjects\SapHanaApp\SapHanaApp\bin\Release\net5.0\publish\SapHanaApp.exe
+C:\Data\MyProjects\SapHanaApp\SapHanaApp\bin\Release\net5.0\publish\SapHanaApp.dll
+C:\Data\MyProjects\SapHanaApp\SapHanaApp\bin\Release\net5.0\publish\SapHanaApp.deps.json
+C:\Data\MyProjects\SapHanaApp\SapHanaApp\bin\Release\net5.0\publish\SapHanaApp.runtimeconfig.json
+C:\Data\MyProjects\SapHanaApp\SapHanaApp\bin\Release\net5.0\publish\SapHanaApp.pdb
+C:\Data\MyProjects\SapHanaApp\SapHanaApp\bin\Release\net5.0\publish\Sap.Data.Hana.Core.v2.1.dll

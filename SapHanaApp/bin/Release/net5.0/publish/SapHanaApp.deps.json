@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SapHanaApp/1.0.0": {
+        "dependencies": {
+          "Sap.Data.Hana.Core.v2.1": "2.7.23.0"
+        },
+        "runtime": {
+          "SapHanaApp.dll": {}
+        }
+      },
+      "Sap.Data.Hana.Core.v2.1/2.7.23.0": {
+        "runtime": {
+          "Sap.Data.Hana.Core.v2.1.dll": {
+            "assemblyVersion": "2.7.23.0",
+            "fileVersion": "2.7.23.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SapHanaApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sap.Data.Hana.Core.v2.1/2.7.23.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
